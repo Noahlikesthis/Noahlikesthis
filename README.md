@@ -1,5 +1,3 @@
-# Hey!
-
 ## About Me
 
 - 🧑‍💻 I'm 15 and passionate about programming and technology.  
